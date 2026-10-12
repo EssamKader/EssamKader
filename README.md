@@ -1,6 +1,18 @@
-# 💫 About Me:
-VDC/BIM Engineer & AEC Applied AI Specialist | Autodesk Approved Instructor | Digital Delivery | Data Analytics | Led 1K+ CAD-to-BIM Transition | Trained 150+ Professionals on Data & AI Integration in BIM Ecosystem.Driving construction projects toward smarter, faster delivery through BIM, automation, and data-driven workflows.<br>Expertise spans coordination, dashboards, and digital delivery, turning complex processes into efficient, actionable systems.<br>Focused on bridging engineering and technology, creating solutions that make construction predictable, efficient, and innovative.
+<p align="center">
+  <img src="assets/profile-card.svg" alt="Essam Kader — VDC/BIM Engineer · Structural Engineer · AEC Applied AI Specialist" width="100%"/>
+</p>
 
+# 💫 About Me:
+Structural Engineer turned VDC/BIM Engineer & AEC Applied AI Specialist | Autodesk Approved Instructor | Digital Delivery | Data Analytics | Led 1K+ CAD-to-BIM Transition | Trained 150+ Professionals on Data & AI Integration in BIM Ecosystem. Driving construction projects toward smarter, faster delivery through BIM, automation, and data-driven workflows.<br>Expertise spans coordination, dashboards, and digital delivery, turning complex processes into efficient, actionable systems.<br>Focused on bridging engineering and technology, creating solutions that make construction predictable, efficient, and innovative.
+
+## 🐍 Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EssamKader/EssamKader/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EssamKader/EssamKader/output/github-snake.svg"/>
+  <img alt="Snake eating Essam Kader's GitHub contribution graph" src="https://raw.githubusercontent.com/EssamKader/EssamKader/output/github-snake.svg"/>
+</picture>
+
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EssamKader&theme=github-compact&hide_border=true&area=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essam-kader) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@EssamKader-1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eng.essamkader@gmail.com) 
